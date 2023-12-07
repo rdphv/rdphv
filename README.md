@@ -1,5 +1,7 @@
 ### Bonjour !
 
+Développeur depuis 1999, je m'intéresse au code, à la productivité, au management et à [GPT](GPT.md). 
+
 #### Outils de productivité
 
 - https://meetingbar.app/ - Gratuit - MacOS
