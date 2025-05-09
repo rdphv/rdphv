@@ -1,10 +1,6 @@
 ### Bonjour !
 
-Développeur depuis 1999, je m'intéresse au code, à la productivité, au management et à [GPT](GPT.md). 
-
-#### Outils de productivité
-
-- https://meetingbar.app/ - Gratuit - MacOS
+Développeur depuis 1999, je m'intéresse au code, à la productivité, au management et au produit. 
 
 <!--
 **rdphv/rdphv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
